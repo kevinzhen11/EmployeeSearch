@@ -1,0 +1,17 @@
+D:\个人文件夹\2018\EmployeeSearch\EmployeeSearch\bin\Debug\EmployeeSearch.exe
+D:\个人文件夹\2018\EmployeeSearch\EmployeeSearch\bin\Debug\EmployeeSearch.pdb
+D:\个人文件夹\2018\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.csprojResolveAssemblyReference.cache
+D:\个人文件夹\2018\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.Form1.resources
+D:\个人文件夹\2018\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.Properties.Resources.resources
+D:\个人文件夹\2018\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.csproj.GenerateResource.Cache
+D:\个人文件夹\2018\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.exe
+D:\个人文件夹\2018\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.pdb
+D:\学习\EmployeeSearch\EmployeeSearch\bin\Debug\EmployeeSearch.exe
+D:\学习\EmployeeSearch\EmployeeSearch\bin\Debug\EmployeeSearch.pdb
+D:\学习\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.csprojAssemblyReference.cache
+D:\学习\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.Form1.resources
+D:\学习\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.Properties.Resources.resources
+D:\学习\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.csproj.GenerateResource.cache
+D:\学习\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.csproj.CoreCompileInputs.cache
+D:\学习\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.exe
+D:\学习\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.pdb
